@@ -1,0 +1,15 @@
+
+^
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Òç—8õ ¯´À/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¿™©8òâÅ´À/
+b	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ñ‰‹ˆ8Öß¼´À/
+e
+java:S2276;"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8ÿÁÂ´À/
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(¿™©8µ˜Ã´À/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äöã:
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(µšÆşûÿÿÿÿ8æ´À´À/
+`
+java:S2276D"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8òâÅ´À/
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(áåé³8»ä®´À/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(µšÆşûÿÿÿÿ8òâÅ´À/

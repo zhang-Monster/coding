@@ -1,0 +1,9 @@
+
+c
+java:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Óô¬éÈ/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ùªü´úÿÿÿÿ8¥¦©éÈ/
+C
+java:S1860,"&Synchronize on a new "Object" instead.(ĞÓÃŠ8§ç­éÈ/
+H
+java:S1860$"&Synchronize on a new "Object" instead.(Áî—äùÿÿÿÿ8õŒ©éÈ/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÿâéë8‡½®éÈ/
