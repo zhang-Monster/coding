@@ -1,0 +1,15 @@
+
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(öÀöƒøÿÿÿÿ8ÛªŠ‡Ê/
+]	java:S125"<This block of commented-out lines of code should be removed.(‰ü¾üÿÿÿÿ8ÛÙá†Ê/
+I
+java:S30111",This accessibility bypass should be removed.(ñƒ¤¡8áÀ‰‡Ê/
+U
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ÒéÏœıÿÿÿÿ8ÛÙá†Ê/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(«”­8´€€‡Ê/
+H
+java:S30110",This accessibility update should be removed.(ºÓüE8Íû‹‡Ê/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Û‘§çÿÿÿÿÿ8Ôÿæ†Ê/
+P
+java:S1874,"3Remove this use of "newInstance"; it is deprecated.(Ø×÷8§˜„‡Ê/
+L
+java:S3740"/Provide the parametrized type for this generic.(§»ØÎ8ÛÙá†Ê/

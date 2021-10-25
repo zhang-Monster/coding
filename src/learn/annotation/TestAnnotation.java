@@ -1,6 +1,6 @@
 package learn.annotation;
 
-import javax.annotation.Resource;
+
 import java.lang.annotation.*;
 
 /**
@@ -20,6 +20,8 @@ public class TestAnnotation {
     public void test() {
 
     }
+
+
 }
 
 /**

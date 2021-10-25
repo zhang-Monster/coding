@@ -1,4 +1,4 @@
-package learn.leetcode;
+package learn.leetcode.other;
 
 import learn.leetcode.common.ListNode;
 

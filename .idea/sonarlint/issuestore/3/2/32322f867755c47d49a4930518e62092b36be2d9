@@ -1,0 +1,19 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Á«ºù
+H
+java:S1135"2Complete the task associated to this TODO comment.(öË†˜
+;
+java:S1659‡"Declare "i" on a separate line.(æ‡ü€ýÿÿÿÿ
+;
+java:S1659‡"Declare "j" on a separate line.(æ‡ü€ýÿÿÿÿ
+>
+java:S1659‡""Declare "temp" on a separate line.(æ‡ü€ýÿÿÿÿ
+P
+java:S1854«"9Remove this useless assignment to local variable "array".(½Òˆ¨
+W	java:S125®"<This block of commented-out lines of code should be removed.(äÎæèûÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(×´Ý§üÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ëèåª
+W	java:S125·"<This block of commented-out lines of code should be removed.(šÿºÈþÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(õàŸñüÿÿÿÿ
+A
+java:S1481«"*Remove this unused "array" local variable.(½Òˆ¨

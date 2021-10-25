@@ -1,0 +1,13 @@
+
+
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÑ†º8®ÚüñÉ/
+C
+java:S1144H"&Remove this unused private "a" method.(ûÑ†º8®ÚüñÉ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹®…û8ÏâéÉ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢Œ±Êşÿÿÿÿ8¦ÑâéÉ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ8«œÕéÉ/
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ıìéÉ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßºÎú8¦ÑâéÉ/
+x
+java:S1192"VDefine a constant instead of duplicating this literal "learn.reflection.User" 4 times.(¥„ã‡ıÿÿÿÿ8ãèáéÉ/
