@@ -1,7 +1,0 @@
-
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8Ÿ®¤Ó²/
-G
-java:S1481"*Remove this unused "index" local variable.(ìüà·8Ö•îÓ²/
-X	java:S125"<This block of commented-out lines of code should be removed.(»ıÂ‹8Ö•îÓ²/
-W	java:S125"<This block of commented-out lines of code should be removed.(¾Ó®Y8¡—íÓ²/
-y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ëæûÿÿÿÿÿ8ë–øÓ²/

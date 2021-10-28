@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+coding.iml
+.idea
+*.iws
+*.iml
+*.ipr
+out/

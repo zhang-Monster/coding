@@ -1,18 +1,7 @@
 
-R
-java:S24468"0"notify" may not wake up the appropriate thread.(Òèüòøÿÿÿÿ8’Ñû­¼/
-J
-java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ö¸‡Å¼/
-c
-java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ŸÏú­¼/
-R
-java:S2446N"0"notify" may not wake up the appropriate thread.(Òèüòøÿÿÿÿ8º…ş­¼/
-c
-java:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8’Ñû­¼/
-R
-java:S2446 "0"notify" may not wake up the appropriate thread.(Òèüòøÿÿÿÿ8Ëüø­¼/
-Z	java:S106J"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ8º…ş­¼/
-c
-java:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8º…ş­¼/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑıÿÿÿÿ8Í§ø­¼/
-U	java:S1063"9Replace this use of System.out or System.err by a logger.(ñª•ó8’Ñû­¼/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïİ›Àùÿÿÿÿ8ôª÷–Ê/
+X
+java:S1854";Remove this useless assignment to local variable "newHead".(Óã­ø8©Ç€—Ê/
+I
+java:S1481",Remove this unused "newHead" local variable.(Óã­ø8©Ç€—Ê/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø³ìíıÿÿÿÿ8Ÿ¢ƒ—Ê/
