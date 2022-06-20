@@ -1,6 +1,6 @@
 package learn;
 
-import learn.leetcode.common.ListNode;
+import learn.algorithm.common.ListNode;
 
 /**
  * @version V1.0
