@@ -37,7 +37,8 @@ public class Topic977 {
      */
     public int[] sortedSquares2(int[] nums) {
         int [] res = new int[nums.length];
-        int left = 0 , right = nums.length - 1;
+        int left = 0 ;
+        int right = nums.length - 1;
         int index = nums.length - 1;
         while (left <= right) {
             if (nums[left] * nums[left] <= nums[right] * nums[right]) {
