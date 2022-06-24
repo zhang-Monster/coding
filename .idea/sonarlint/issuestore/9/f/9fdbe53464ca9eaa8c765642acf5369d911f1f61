@@ -1,10 +1,0 @@
-
-]	java:S125!"<This block of commented-out lines of code should be removed.(´´‰ùúÿÿÿÿ8‘â¨­Á/
-L
-java:S3740"/Provide the parametrized type for this generic.(ç¦–‹8­·­Á/
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8êÇ„Á/
-
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ääö¬Á/
-X	java:S125"<This block of commented-out lines of code should be removed.(•½¢8—ÿÃ›Ç/
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Õ§ÛŸûÿÿÿÿ8ÇÈ›Ç/

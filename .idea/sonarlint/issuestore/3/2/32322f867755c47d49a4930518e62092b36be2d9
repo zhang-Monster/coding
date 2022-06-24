@@ -1,19 +1,0 @@
-
-W	java:S125®"<This block of commented-out lines of code should be removed.(äÎæèûÿÿÿÿ
-R	java:S125´"<This block of commented-out lines of code should be removed.(ëèåª
-Q	java:S125"<This block of commented-out lines of code should be removed.(Á«ºù
-A
-java:S1481«"*Remove this unused "array" local variable.(½Òˆ¨
-P
-java:S1854«"9Remove this useless assignment to local variable "array".(½Òˆ¨
-;
-java:S1659‡"Declare "i" on a separate line.(æ‡ü€ýÿÿÿÿ
-W	java:S125·"<This block of commented-out lines of code should be removed.(šÿºÈþÿÿÿÿ
-H
-java:S1135"2Complete the task associated to this TODO comment.(öË†˜
-;
-java:S1659‡"Declare "j" on a separate line.(æ‡ü€ýÿÿÿÿ
-W	java:S125±"<This block of commented-out lines of code should be removed.(×´Ý§üÿÿÿÿ
-W	java:S125¹"<This block of commented-out lines of code should be removed.(õàŸñüÿÿÿÿ
->
-java:S1659‡""Declare "temp" on a separate line.(æ‡ü€ýÿÿÿÿ

@@ -1,19 +1,0 @@
-
-K
-java:S3740"/Provide the parametrized type for this generic.(¼•ÄB8­ß¤êÉ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ßºÎú8ğ·êÉ/
-L
-java:S3740"/Provide the parametrized type for this generic.(ş£‹Ğ8ÔÄ¼êÉ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¹®…û8¹ü°êÉ/
-L
-java:S3740"/Provide the parametrized type for this generic.(¯÷í 8ëÒ§êÉ/
-L
-java:S3740"/Provide the parametrized type for this generic.(¡ıÊô8ğÔÃêÉ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÓ„¨øÿÿÿÿ8Ìñ êÉ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºŸÈÑûÿÿÿÿ8Öğ¿êÉ/
-m
-java:S1104&"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¼¦êÉ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ïò‘Ñ8­ß¤êÉ/
-L
-java:S3740"/Provide the parametrized type for this generic.(¤›Ñÿ8Ëâ¶êÉ/
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(’ ùÿÿÿÿ8ÔŠÄêÉ/
